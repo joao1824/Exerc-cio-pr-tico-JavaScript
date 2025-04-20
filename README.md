@@ -1,0 +1,2 @@
+# Exerc-cio-pr-tico-JavaScript
+ESTE DIRETORIO É PARA UMA ATIVIDADE AVALIATIVA
